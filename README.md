@@ -15,7 +15,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center" />
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" />
   <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" align="center" />
-</div><br/><br/>
+</div><br/>
 
 ## About me:
 - I am a developer specialized in delivering high quality Full Stack solutions.
