@@ -1,4 +1,4 @@
-### Hi! I´m Marcos Cardoso.
+### Hi! I´m Marcos.
 
 
 ![Marcos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcoscardoso1976&show_icons=true&theme=dracula)
@@ -17,4 +17,4 @@
 ## About me:
 - I am a developer specialized in delivering high quality Full Stack solutions.
 
-- I work with React | ReactNative | Node | Python technologies.
+- I work with React | ReactNative | Node and Python technologies.
